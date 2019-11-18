@@ -1,0 +1,14 @@
+c:\Ostruks\ComputerGames\GameConsole\obj\Debug\GameConsole.csprojAssemblyReference.cache
+c:\Ostruks\ComputerGames\GameConsole\obj\Debug\GameConsole.csproj.CoreCompileInputs.cache
+c:\Ostruks\ComputerGames\GameConsole\bin\Debug\GameConsole.exe.config
+c:\Ostruks\ComputerGames\GameConsole\bin\Debug\GameConsole.exe
+c:\Ostruks\ComputerGames\GameConsole\bin\Debug\GameConsole.pdb
+c:\Ostruks\ComputerGames\GameConsole\bin\Debug\GameRepo.dll
+c:\Ostruks\ComputerGames\GameConsole\bin\Debug\Library.dll
+c:\Ostruks\ComputerGames\GameConsole\bin\Debug\Dapper.dll
+c:\Ostruks\ComputerGames\GameConsole\bin\Debug\GameRepo.pdb
+c:\Ostruks\ComputerGames\GameConsole\bin\Debug\Library.pdb
+c:\Ostruks\ComputerGames\GameConsole\bin\Debug\Dapper.xml
+c:\Ostruks\ComputerGames\GameConsole\obj\Debug\GameConsole.csproj.CopyComplete
+c:\Ostruks\ComputerGames\GameConsole\obj\Debug\GameConsole.exe
+c:\Ostruks\ComputerGames\GameConsole\obj\Debug\GameConsole.pdb
