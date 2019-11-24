@@ -1,0 +1,10 @@
+E:\Ostruk\Git\ComputerGamesDapper\DAL\bin\Debug\DAL.dll
+E:\Ostruk\Git\ComputerGamesDapper\DAL\bin\Debug\DAL.pdb
+E:\Ostruk\Git\ComputerGamesDapper\DAL\bin\Debug\Dapper.dll
+E:\Ostruk\Git\ComputerGamesDapper\DAL\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Ostruk\Git\ComputerGamesDapper\DAL\bin\Debug\Dapper.xml
+E:\Ostruk\Git\ComputerGamesDapper\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Ostruk\Git\ComputerGamesDapper\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+e:\Ostruk\Git\ComputerGamesDapper\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Ostruk\Git\ComputerGamesDapper\DAL\obj\Debug\DAL.dll
+E:\Ostruk\Git\ComputerGamesDapper\DAL\obj\Debug\DAL.pdb

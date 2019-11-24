@@ -1,0 +1,14 @@
+E:\Ostruk\Git\ComputerGamesDapper\BL\bin\Debug\BL.dll
+E:\Ostruk\Git\ComputerGamesDapper\BL\bin\Debug\BL.pdb
+E:\Ostruk\Git\ComputerGamesDapper\BL\bin\Debug\AutoMapper.dll
+E:\Ostruk\Git\ComputerGamesDapper\BL\bin\Debug\DAL.dll
+E:\Ostruk\Git\ComputerGamesDapper\BL\bin\Debug\Dapper.dll
+E:\Ostruk\Git\ComputerGamesDapper\BL\bin\Debug\DAL.pdb
+E:\Ostruk\Git\ComputerGamesDapper\BL\bin\Debug\AutoMapper.pdb
+E:\Ostruk\Git\ComputerGamesDapper\BL\bin\Debug\AutoMapper.xml
+E:\Ostruk\Git\ComputerGamesDapper\BL\bin\Debug\Dapper.xml
+E:\Ostruk\Git\ComputerGamesDapper\BL\obj\Debug\BL.csprojAssemblyReference.cache
+E:\Ostruk\Git\ComputerGamesDapper\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+e:\Ostruk\Git\ComputerGamesDapper\BL\obj\Debug\BL.csproj.CopyComplete
+E:\Ostruk\Git\ComputerGamesDapper\BL\obj\Debug\BL.dll
+E:\Ostruk\Git\ComputerGamesDapper\BL\obj\Debug\BL.pdb

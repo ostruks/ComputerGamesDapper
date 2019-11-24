@@ -1,14 +1,15 @@
-﻿using GameRepo;
-using Library;
+﻿using BL.Controllers;
+using BL.MoldesDTO;
+using DAL;
 using System;
 
 namespace GameConsole
 {
     class Program
     {
-        static IRepository<Genre> Genres = new GenreRepository();
-        static IRepository<Publisher> Publishers = new PublisherRepository();
-        static IRepository<Game> Games = new GameRepository();
+        static IRepository<GenreDTO> Genres = new GenreController();
+        static IRepository<PublisherDTO> Publishers = new PublisherController();
+        static IRepository<GameDTO> Games = new GameController();
 
         static void Main(string[] args)
         {
@@ -27,18 +28,18 @@ namespace GameConsole
             GetAllGames(license);
 
             //Create one
-            Create(Genres, new Genre() { Name = "MMO", Description = "Description" });
-            Create(Publishers, new Publisher() { Name = "Man", License = 111222 });
-            Create(Games, new Game() { Name = "Chuvak", YearOfIssue = 2018, Genre_Id = 2, Publisher_Id = 3 });
+            Create(Genres, new GenreDTO() { Name = "MMO", Description = "Description" });
+            Create(Publishers, new PublisherDTO() { Name = "Man", License = 111222 });
+            Create(Games, new GameDTO() { Name = "Chuvak", YearOfIssue = 2018, Genre_Id = 2, Publisher_Id = 3 });
 
             Display(Genres);
             Display(Publishers);
             Display(Games);
 
             //Update one
-            Update(Genres, new Genre() { Id = 2, Name = "MMORPG", Description = "New Description" });
-            Update(Publishers, new Publisher() { Id = 2, Name = "Man22", License = 111222 });
-            Update(Games, new Game() { Id = 2, Name = "Chuvak345", YearOfIssue = 2018, Genre_Id = 2, Publisher_Id = 2 });
+            Update(Genres, new GenreDTO() { Id = 2, Name = "MMORPG", Description = "New Description" });
+            Update(Publishers, new PublisherDTO() { Id = 2, Name = "Man22", License = 111222 });
+            Update(Games, new GameDTO() { Id = 2, Name = "Chuvak345", YearOfIssue = 2018, Genre_Id = 2, Publisher_Id = 2 });
 
             Display(Genres);
             Display(Publishers);
@@ -88,9 +89,9 @@ namespace GameConsole
 
         private static void GetAllGames(int license)
         {
-            foreach (var genre in Games.GetAll(license))
+            foreach (var game in Games.GetAll(license))
             {
-                Console.WriteLine(genre);
+                Console.WriteLine(game);
             }
             Console.WriteLine("========================");
         }
